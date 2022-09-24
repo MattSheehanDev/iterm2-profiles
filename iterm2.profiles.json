@@ -1,9 +1,9 @@
 {
     "Profiles": [
         {
-            "Name": "Default",
+            "Name": "MatthewSheehanDefault",
             "Guid": "f8c1336b-a532-4676-91d1-97b9897dff48",
-            "Description": "Default",
+            "Description": "Matthew Sheehan default profile",
             "Tags": [],
             "Working Directory": "~/",
             "Rows": 25,
